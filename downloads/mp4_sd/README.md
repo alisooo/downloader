@@ -7,7 +7,7 @@
 | Property | Value |
 |----------|-------|
 | **Original File** | `mp4_sd.mp4` |
-| **Total Size** | **2 parts** - **59.09 MB** |
+| **Total Size** | **2 parts** - **60.03 MB** |
 | **Status** | **Complete (100%)** |
 | **Password Protected** | **NO** |
 
